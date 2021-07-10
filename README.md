@@ -1,10 +1,7 @@
-# ADTs-implementation
-ADT_Vector implementation using internally ADT_Map
+# ADTs-implementations
 
-#ADTs Implementations
+* ADT_Vector implementation using ADT_Map
 
-*ADT_Vector implementation using ADT_Map
+* ADT_Deque implementation using ADT_Map
 
-*ADT_Deque implementation using ADT_Map
-
-*ADT_Deque implementation using Dynamic Arrays
+* ADT_Deque implementation using Dynamic Arrays
